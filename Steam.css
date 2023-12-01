@@ -1,0 +1,266 @@
+.fon {
+    background-image: url("2.jpg");
+    height: 500px;
+    background-color: #C6D4DF;
+}
+.menu1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #171d25;
+    margin: 0;
+    align-items: center;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+.ul-menu1 {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+}   
+
+.White {
+    color: aliceblue;
+    margin-left: 20px;
+}
+
+.ul-menu2 {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    background-color: #0f6db6;
+    color: aliceblue;
+    width: 850px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    position: absolute;
+    top: 125px;
+    left: 300px;
+}
+
+body {
+    background-color: #1a2a3b;
+    margin: 0;
+}
+
+.blue {
+    margin-left: 20px;
+}
+
+.button1 {
+    margin-top: 350px;
+    margin-left: 650px;
+    padding: 10px 50px;
+    font-weight: 600;
+    border: none;
+    background: linear-gradient(120deg, #0b2826, #32d1d6, #0a2725); 
+    background-size: auto 200%;  
+    background-position: 0 100%;  
+    transition: background-position 0.5s;  
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.img1 {
+    width: 960px;
+    height: 350px;
+}
+
+.bocovoe_menu {
+    margin-right: 30px;
+}
+
+.h2-pillar {
+    color: #356190;
+    font-size: 17;
+}
+
+.h3-pillar {
+    color: rgb(156, 154, 154);
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.price {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.div3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.div4 {
+    display: flex;
+    flex-direction: row;
+}
+
+.div5 {
+    display: flex;
+    flex-direction: row;
+}
+
+.div6 {
+    display: flex;
+    flex-direction: row;
+}
+
+.img2 {
+    width: 320px;
+    height: 397px;
+}
+
+.img3 {
+    width: 320px;
+    height: 150px;
+}
+
+.img01 {
+    margin-top: 30px;
+}
+
+.black {
+    background-color: rgb(73, 85, 115);
+    height: 110px;
+    margin-top: -18px;
+    padding-top: 5px;
+}
+
+.green {
+    background-color: rgb(152, 194, 90);
+    height: 25px;
+}
+
+.p-white {
+    color: whitesmoke;
+    margin-bottom: 3px;
+}
+
+s {
+    color: rgb(158, 157, 157);
+}
+
+.pm {
+    margin: 0;
+    font-weight: bold;
+    padding: 5 10 5 10;
+}
+
+.r-white {
+    color: whitesmoke;
+}
+
+.img-cat {
+    width: 240px;
+    height: 240px;
+}
+
+.img-rec {
+    width: 965px;
+}
+
+.p-rec {
+    color: rgb(238, 235, 235);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0;
+
+}
+
+.img-rec2 {
+    width: 240px;
+    height: 112px;
+}
+
+.div7 {
+    background-color: rgb(73, 85, 115);
+    color: rgb(239, 241, 243);
+    margin: 0;
+}
+
+.div8 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(101, 115, 152);
+    width: 150px;
+}
+
+.div77 {
+    padding-top: 5px;
+}
+
+.div9 {
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.div10 {
+    width: 235px;
+    height: 58px;
+    margin-left: 5px;
+    font-weight: bold;
+    background-color: #6eb2e6;
+    color: aliceblue;
+    background: linear-gradient(to left, rgb(80, 80, 235), rgb(101, 183, 245));
+}
+
+.Sergey1 {
+    text-align: center;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.Sergey {
+    height: 60px;
+    background-color: #0000009e;
+    margin: 0;
+}
+
+
+.div10:hover {
+    background: linear-gradient(to left, rgb(80, 80, 235), rgb(150, 207, 250));
+}
+
+
+.div7:hover {
+    background-color: rgb(108, 125, 169);
+}
+
+.div11:hover {
+    background-color: rgb(108, 125, 169);;
+}
+
+.img-cat:hover {
+    width: 260px;
+    height: 260px;
+}
+
+.img100:hover {
+    box-shadow: 0px 0px 5px 5px rgb(49, 90, 126);
+}
+
+.p-rec:hover {
+    background-color: rgb(108, 125, 169);
+}
+
+.div11 {
+    background-color: rgb(73, 85, 115);
+}
+
+.div200 {
+    margin-top: 50px;
+}
